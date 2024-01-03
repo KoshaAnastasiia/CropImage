@@ -16,6 +16,7 @@ https://github.com/KoshaAnastasiia/CropImage/assets/118916073/04f089c2-d6db-4f49
 4. Cropping photos in random order depending on the current photo selected by the user in cropping mode
 
 https://github.com/KoshaAnastasiia/CropImage/assets/118916073/794f1f71-b5d7-473f-880d-23656b5dc8d9
+
 https://github.com/KoshaAnastasiia/CropImage/assets/118916073/4d9c6e78-b744-4244-b9df-ef85a141e05a
 
 5. Cropped photos are saved on the main screen. Photos saved on the main screen can be re-cropped.
